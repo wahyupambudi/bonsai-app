@@ -61,7 +61,7 @@
                                 <li><a href="/">Home</a></li>
                                 <li><a href="/produk">Produk Kami</a></li>
                                 <li><a href="/blog">Blog</a></li>
-                                <li><a href="/kontak">Kontak Kami</a></li>
+                                <li><a href="/cara-pemesanan">Cara Pemesanan</a></li>
                                 <li><a href="/about">Tentang Kami</a></li>
                             </ul>
                         </div><!-- /.navbar-collapse -->

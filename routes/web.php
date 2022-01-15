@@ -49,4 +49,8 @@ Route::get('/detail', function () {
     return view('detail');
 });
 
+Route::get('/cara-pemesanan', function () {
+    return view('cara-pemesanan');
+});
+
 // Route::get('/login', 'ProdukController@cok');
